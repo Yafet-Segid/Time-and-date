@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(119, 119, 119);
+  color: white;
+}
+
+.main {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.main h1 {
+  font-size: 70px;
+}
+
+.time {
+  font-size: 120px;
+  padding: 40px;
+  font-weight: bold;
+}
+
+.date {
+  font-size: 60px;
+
+  font-weight: bold;
+}
