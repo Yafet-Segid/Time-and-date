@@ -1,2 +1,4 @@
 # Time-and-date
-![Screen Shot 2021-06-11 at 4 07 31 PM](https://user-images.githubusercontent.com/83928646/121748971-7ed71d00-cacf-11eb-8436-f2be9f747b6f.png)
+
+![Screen Recording 2021-07-03 at 4 42 30 AM](https://user-images.githubusercontent.com/83928646/124350277-54055380-dbb9-11eb-93b9-47eebe1965b5.gif)
+
